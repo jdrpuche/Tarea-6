@@ -1,4 +1,4 @@
 Tarea-6
 =======
 
-Realizada por Miguel Aldana Pérez y Jesús Rincón 
+Realizada por Miguel Aldana y Jesús Rincón 
