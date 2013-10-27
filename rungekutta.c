@@ -174,6 +174,6 @@ y[i] = y[i-1] + h *ky1;
 vy[i] = vy[i-1] + h *ky2;
 
 }
-return null;
+return 0;
 }
 
