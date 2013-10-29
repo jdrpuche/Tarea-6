@@ -1,7 +1,7 @@
 all: a.out plots.py
 
 a.out:	evolve.c IC.c 
-	cc evolve.c IC.c -lm
+	cc evolve.c IC.c -std=c99 -lm
 
 plots.py: plots.py
 	python plots.py
